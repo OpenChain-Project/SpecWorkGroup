@@ -19,8 +19,8 @@ Please read the Spec FAQs before contributing. This will provide insight into th
 
 For a given version of the specification the development process steps include:
   1. Hold a kickoff meeting and revisit the [Specification Guiding Principles](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers#what-are-the-specification-guiding-principles)
-  1. We accept and discuss feedback from anyone who wants to participate either at the working group meetings or on the [spec mailing list](https://lists.linuxfoundation.org/mailman/listinfo/openchain-specification). 
-  1. Currently an annual release cadence is followed (which may change for a given release). Any cadence changes will be announced on the [spec mailing list](https://lists.linuxfoundation.org/mailman/listinfo/openchain-specification).
+  1. We accept and discuss feedback from anyone who wants to participate either at the working group meetings or on the [spec mailing list](https://lists.openchainproject.org/g/specification). 
+  1. Currently an annual release cadence is followed (which may change for a given release). Any cadence changes will be announced on the [spec mailing list](https://lists.openchainproject.org/g/specification).
   1. Suggestions are tracked in the specification's [github issue tracking list](https://github.com/OpenChain-Project/Specification/issues)
   1. A draft of the accepted modifications and additions are published monthly in an [updated draft document](spec/2.1/OpenChainSpec-2.1.draft.pdf)
   1. Public Comments Period - Six weeks prior to the target release date we circulate a near final version seeking public comments for 30 days. During this period we accept only minor updates such as typos, grammar corrections and wordsmith recommendations that do not change the semantics of the content. We do not accept any material changes during this period. All other feedback and recommendations are queue for consideration during the next version release cycle. 
