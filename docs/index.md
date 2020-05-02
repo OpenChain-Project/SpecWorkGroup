@@ -15,7 +15,9 @@ Curent version of the specification (2.0) can be found here:  [<img src="images/
 You can find the draft version (2.1 rc4) here: [<img src="images/pdf-download.jpg" width="18" height="17">](spec/2.1/OpenChainSpec-2.1.draft.pdf)
 
 ### Contributing to the Specification
-Please read the Spec FAQs before contributing. This will provide insight into the principles that have guided past decisions: Spec FAQs. You can join the Specification mailing list and, review and record feedback on the current version of the specification using github issue tracking.
+Please read the Spec FAQs before contributing. This will provide insight into the principles that have guided past decisions: [Spec FAQs](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers). You can join the Specification [mailing list](https://lists.openchainproject.org/g/specification) and, review and record feedback on the current version of the specification using [github issue tracking](https://github.com/OpenChain-Project/Specification/issues).
+
+### Specification Development/Release Process
 
 For a given version of the specification the development process steps include:
   1. Hold a kickoff meeting and revisit the [Specification Guiding Principles](https://wiki.linuxfoundation.org/openchain/specification-questions-and-answers#what-are-the-specification-guiding-principles)
@@ -28,6 +30,6 @@ For a given version of the specification the development process steps include:
   1. If a consensus expresses concerns over any changes made during the Public Comments period we would i) make changes to accommodate those concerns followed by ii) an additional 14 day Public Comments period; followed by iii) another 14 day Freeze period. Anyone with significant reservations on the final draft should state their position/concerns via the spec mailing list. The changes will be accepted once we achieve consensus for the final draft. 
   1. In  the event we do not have consensus on the final version - we would repeat the following cycle until we have consensus: i) accommodate changes to address majority concerns; ii) 14 day Public Comments period; followed by iii) a 14 day Freeze period cycle.
 
-### Specification Development/Release Process
+
 
 
