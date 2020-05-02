@@ -31,5 +31,6 @@ For a given version of the specification the development process steps include:
   1. In  the event we do not have consensus on the final version - we would repeat the following cycle until we have consensus: i) accommodate changes to address majority concerns; ii) 14 day Public Comments period; followed by iii) a 14 day Freeze period cycle.
 
 
+The old wiki page can be found [here](https://wiki.linuxfoundation.org/openchain/openchain-specification-wiki-page)
 
 
